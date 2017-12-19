@@ -1,0 +1,26 @@
+2017-12-05 17:15:06 - Starting SbLogbackDemoApplication on Juhi with PID 5584 (D:\SpringPractice\SB_LogbackDemo\target\classes started by juhis in D:\SpringPractice\SB_LogbackDemo)
+2017-12-05 17:15:06 - No active profile set, falling back to default profiles: default
+2017-12-05 17:15:08 - Started SbLogbackDemoApplication in 3.121 seconds (JVM running for 4.005)
+2017-12-05 17:15:08 - log starts :: from main
+2017-12-05 17:15:08 - for loop :: main :: 0
+2017-12-05 17:15:08 - for loop :: main :: 1
+2017-12-05 17:15:08 - for loop :: main :: 2
+2017-12-05 17:15:08 - for loop :: main :: 3
+2017-12-05 17:15:08 - for loop :: main :: 4
+2017-12-05 17:15:08 - for loop :: main :: 5
+2017-12-05 17:15:08 - for loop :: main :: 6
+2017-12-05 17:15:08 - for loop :: main :: 7
+2017-12-05 17:15:08 - for loop :: main :: 8
+2017-12-05 17:15:08 - for loop :: main :: 9
+2017-12-05 17:15:08 - for loop :: main :: 10
+2017-12-05 17:15:28 - for loop :: home :: 0
+2017-12-05 17:15:28 - for loop :: home :: 1
+2017-12-05 17:15:28 - for loop :: home :: 2
+2017-12-05 17:15:28 - for loop :: home :: 3
+2017-12-05 17:15:28 - for loop :: home :: 4
+2017-12-05 17:15:28 - for loop :: home :: 5
+2017-12-05 17:15:28 - for loop :: home :: 6
+2017-12-05 17:15:28 - for loop :: home :: 7
+2017-12-05 17:15:28 - for loop :: home :: 8
+2017-12-05 17:15:28 - for loop :: home :: 9
+2017-12-05 17:15:28 - for loop :: home :: 10
